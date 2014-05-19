@@ -2,6 +2,7 @@ Revision history for Mail-File
 ==============================
 
         - fixed distribution name in META.
+        - added git repo to resources.
 
 0.11    2013-07-14
         - change file dates changed to meet W3CDTF standards.
