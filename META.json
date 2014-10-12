@@ -1,6 +1,6 @@
 {
     "name": "Mail::File",
-    "version": "0.12",
+    "version": "0.13",
     "abstract": "Write mail messages to a plain text file",
     "author": ["Barbie <barbie@cpan.org>"],
 
@@ -43,7 +43,7 @@
     "provides": {
         "Mail::File": {
             "file": "lib/Mail/File.pm",
-            "version": "0.12"
+            "version": "0.13"
         }
     },
     "no_index": {
